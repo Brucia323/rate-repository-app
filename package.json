@@ -29,7 +29,7 @@
     "@react-native-async-storage/async-storage": "~1.15.0",
     "date-fns": "^2.28.0",
     "dotenv": "^16.0.0",
-    "expo": "~44.0.0",
+    "expo": "~46.0.16",
     "expo-status-bar": "~1.2.0",
     "formik": "^2.2.9",
     "graphql": "^16.4.0",
